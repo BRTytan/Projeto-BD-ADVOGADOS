@@ -1,0 +1,12 @@
+INSERT INTO TiposAcoes VALUES(1,'Registro inadequado','Contratos de trabalho superficiais ou desatualizados'),
+(2,'Período de experiência','Registro na Carteira de Trabalho após o início da prestação de serviços'),
+(3,'Pagamento por fora','Registro em carteira de salário em valor inferior ao que o empregado efetivamente recebe'),
+(4,'Carga horária','Ausência do registro correto de horário'),
+(5,'Hora-extra','Pagamento de horas extras habituais por fora e não incidência dos seus reflexos nas verbas devidas'),
+(6,'Comissão','Não incidência das comissões nas verbas trabalhistas'),
+(7,'Desconto indevido','Descontos em folha, além dos admitidos por Lei, sem autorização escrita dos empregados'),
+(8,'Carga pesada','Duração do trabalho diário superior a 10 horas'),
+(9,'Falta de pagamento','Trabalho aos domingos e feriados sem o correto pagamento ou compensação'),
+(10,'Irregularidade','Terceirizações irregulares'),
+(11,'Fiscalização ineficiente','Falta de fiscalização, por parte da empresa tomadora de serviços, das obrigações da empresa terceirizada'),
+(12,'Segurança','Inobservância das regras de saúde e segurança do trabalho, com entrega de equipamentos de proteção');

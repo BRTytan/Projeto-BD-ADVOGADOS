@@ -1,0 +1,12 @@
+INSERT INTO advogados VALUES('567890','Will Smith','88206281800','will.smith@advogados.com.br'),
+('678901','Mary Poppins','46130921837','mary.poppins@advogados.com.br'),
+('789012','Philip Banks','53168553883','philip.banks@advogados.com.br'),
+('890123','Jessica Jones','28673617707','jessica.jones@advogados.com.br'),
+('901234','Amy Farrah','74714075730','amy.farrah@advogados.com.br'),
+('579315','Dora Marquez','30487688740','dora.marquez@advogados.com.br'),
+('680246','Tyler Durden','67360837618','tyler.durden@advogados.com.br'),
+('791357','Olivia Pope','45954903646','olivia.pope@advogados.com.br'),
+('542882','Cristina Yang','85040149670','cristina.yang@advogados.com.br'),
+('788821','Saul Goodman','18935320625','saul.goodman@advogados.com.br'),
+('666666','Vito Corleone','09211146640','vito.corleone@advogados.com.br'),
+('782212','Sherlock Holmes','34812718678','sherlock.holmes@advogados.com.br');
